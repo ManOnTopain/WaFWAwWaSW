@@ -8,6 +8,7 @@ the non
 obfuscated
 code 
 ;(
+>:(
 ]]--
 
 local astolfo = Instance.new("ScreenGui")
