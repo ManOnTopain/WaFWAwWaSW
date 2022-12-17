@@ -926,7 +926,7 @@ local modules = {
 			new_warning.Name = "NewWarning"
 
 
-			new_warning.Parent = warnList
+			new_warning.Parent = game.CoreGui.Astolfo:WaitForChild("WarnLists")
 
 
 			new_warning.Transparency = 0.5
