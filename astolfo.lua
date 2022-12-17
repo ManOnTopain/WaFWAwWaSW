@@ -1,5 +1,5 @@
 wait(5)
-
+print("Astolfo Gui library made by YMikeOfficialYT or ManMike#9829!")
 
 
 local astolfo = Instance.new("ScreenGui")
