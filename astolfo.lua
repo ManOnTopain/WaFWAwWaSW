@@ -1,6 +1,14 @@
 wait(5)
 print("Astolfo Gui library made by YMikeOfficialYT or ManMike#9829!")
-
+--[[
+Why tf
+Are U
+Looking At
+the non
+obfuscated
+code 
+;(
+]]--
 
 local astolfo = Instance.new("ScreenGui")
 
