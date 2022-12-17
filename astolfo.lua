@@ -900,7 +900,7 @@ local modules = {
 
 
 
-		local warnList = script.Parent.WarnLists
+		local warnList = warn_lists
 
 
 
@@ -1592,4 +1592,3 @@ function buttons:WorldButton(Name, Call)
 
 end
 
-return buttons
