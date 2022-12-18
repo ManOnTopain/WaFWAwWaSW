@@ -1,3 +1,6 @@
+
+--// main script
+
 wait(5)
 print("Astolfo Gui library made by YMikeOfficialYT or ManMike#9829!")
 --[[
@@ -1592,4 +1595,6 @@ function buttons:WorldButton(Name, Call)
 
 end
 
-return buttons
+
+-- // main main script
+
