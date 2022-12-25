@@ -1,4 +1,4 @@
-wait(10)
+task.wait(1)
 function RandomVariable(length)
 	local res = ""
 	for i = 1, length do
